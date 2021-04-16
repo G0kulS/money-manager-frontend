@@ -1,0 +1,92 @@
+.btcenter
+{
+  position: relative;
+  top : 35vh;
+  margin-bottom: 10px;
+}
+.btcenter-n
+{
+  position: relative;
+  top : 40vh;
+  margin-bottom: 10px;
+}
+.regcenter
+{
+  position: relative;
+  top:30vh;
+}
+.wid
+{
+  width: 20vw;
+}
+.see
+{
+  position:absolute;
+  top:31vh;
+  left:65vh;
+}
+.see-l
+{
+  position:absolute;
+  top:18vh;
+  left:65vh;
+}
+.header
+{
+  height: 8vh;
+  text-align: center;
+  font-family:Arial;
+  font-size: 5vh;
+}
+.usricon
+{
+  position:absolute;
+  left:80vw;
+  top:2vh;
+  
+}
+.usrname
+{
+  position: absolute;
+  font-size: 20px;
+  left:83vw;
+  top:10px;
+}
+.logout
+{
+  position:absolute;
+  left:90vw;
+  top:1vh;
+  width:8vw;
+  border-radius: 20px;
+}
+.add
+{
+  border-radius: 50px;
+  position: absolute;
+  top:90vh;
+  left:90vw;
+  
+}
+.leftside
+{
+  position: absolute;
+  right:1vw;
+}
+.mb
+{
+  margin-bottom: 2vh;
+}
+.modalbtn
+{
+ margin-right: 3vw;
+}
+.mainbtn
+{
+  position: relative;
+  top:2vh;
+}
+table,td,th
+{
+  border: 1px solid darkslategrey
+}
